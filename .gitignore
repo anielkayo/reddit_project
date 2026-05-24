@@ -40,14 +40,5 @@ Thumbs.db
 *.xlsx
 *.xls
 
-# Outputs / plots
-outputs/
-figures/
-plots/
-*.png
-*.jpg
-*.jpeg
-*.pdf
-
 # Cache
 .cache/
