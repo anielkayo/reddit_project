@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+reddit/
+Lib/
+Scripts/
+Include/
+
+# Conda environments
+.conda/
+conda-meta/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files
+*.joblib
+*.pkl
+*.pickle
+
+# Large data files
+*.csv
+*.xlsx
+*.xls
+
+# Outputs / plots
+outputs/
+figures/
+plots/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Cache
+.cache/
